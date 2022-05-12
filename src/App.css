@@ -1,0 +1,48 @@
+h1 {
+  color:blue;
+  text-transform: capitalize;
+
+}
+header{
+  text-align: center;
+  min-height: 90px;
+  border-bottom: 3px solid brown;
+  text-transform: capitalize;
+
+}
+
+h1 {
+  color: brown;
+  font-weight: bold;
+
+}
+nav a{
+  text-decoration: none;
+  font-weight: bold;
+  color: red;
+  margin-left: 12px;
+  font-size: 18px;
+}
+
+.content{
+  min-height: 80vh;
+}
+
+footer{
+  text-align: center;
+  font-weight: bold;
+  color: blueviolet;
+  border-top: 3px double olive;
+  min-height:   30px;
+}
+a{
+  text-transform: capitalize;
+
+}
+.test{
+  text-align: center;
+
+}
+button{
+  margin: 10px;
+}
